@@ -6,7 +6,7 @@ const int sv4 = 27;   /* 窓側 */
 
 /* サーボの回転角設定 */
 const int sv1_ON  = 60;
-const int sv1_OFF = 170;
+const int sv1_OFF = 180;
 const int sv1_nomal = (sv1_ON + sv1_OFF) / 2;
 const int sv2_ON  = 40;
 const int sv2_OFF = 110;
